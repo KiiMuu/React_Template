@@ -1,0 +1,19 @@
+@import '../layout/Vars.scss';
+@import '../layout/grid.scss';
+
+.header {
+    .header-content {
+        margin-top: 50px;
+        h2 {
+            color: $mainColor;
+            font-weight: 900;
+            font-size: 100px;
+            letter-spacing: 6px;
+            margin-bottom: 0;
+        }
+        p {
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+    }
+}

@@ -1,0 +1,40 @@
+@import '../layout/Vars.scss';
+
+.work {
+    padding-top: $paddingBetweenSections;
+    .work-heading {
+        .work-title {
+            h2 {
+                color: $mainColor;
+                font-weight: 900;
+                margin-bottom: 10px;
+                letter-spacing: 2;
+                font-size: $headingFontSize;
+            }
+        }
+        .work-desc {
+            margin-bottom: 30px;
+        }
+    }
+    .uk-card-default {
+        .uk-label {
+            background: none;
+            i {
+                font-size: 20px;
+                background: $mainDark;
+                color: $mainLight;
+                width: 40px;
+                height: 40px;
+                line-height: 40px;
+                text-align: center;
+                border-radius: 50%;
+            }
+        }
+        h3 {
+            color: $mainDark;
+        }
+        p {
+            line-height: 1.7;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+@import '../layout/Vars.scss';
+
+.social-media {
+    padding-top: $paddingBetweenSections;
+    section {
+        .social-icon {
+            i {
+                font-size: 35px;
+                color: $mainColor;
+                margin-bottom: 20px;
+            }
+        }
+    }
+}
+

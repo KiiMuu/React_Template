@@ -1,0 +1,27 @@
+@import '../layout/Vars.scss';
+
+.portfolio {
+    padding-top: $paddingBetweenSections;
+    .portfolio-heading {
+        .portfolio-title {
+            h2 {
+                color: $mainColor;
+                font-weight: 900;
+                margin-bottom: 10px;
+                letter-spacing: 2;
+                font-size: $headingFontSize;
+            }
+        }
+        .portfolio-desc {
+            margin-bottom: 30px;
+        }
+    }
+    .port-content {
+        .uk-overlay-default {
+            background: $mainDark;
+            p {
+                color: $mainLight;
+            }
+        }
+    }
+}

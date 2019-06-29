@@ -1,0 +1,23 @@
+@import '../layout/Vars.scss';
+
+.about {
+    padding-top: $paddingBetweenSections;
+    margin-top: 100px;
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url('./about.jpg') no-repeat center center fixed;
+    background-size: cover;
+    h1 {
+        color: $mainLight;
+        font-weight: 900;
+        font-size: 60px;
+        letter-spacing: 2px;
+        span {
+            color: $mainColor;
+        }
+    }
+    h3 {
+        margin-top: 0;
+    }
+    h3, p {
+        color: $mainLight;
+    }
+}

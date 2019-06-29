@@ -1,0 +1,27 @@
+@import '../layout/Vars.scss';
+
+.profile {
+    padding-top: $paddingBetweenSections;
+    .profile-heading {
+        .profile-title {
+            h2 {
+                color: $mainColor;
+                font-weight: 900;
+                margin-bottom: 10px;
+                letter-spacing: 2;
+                font-size: $headingFontSize;
+            }
+        }
+        .profile-desc {
+            margin-bottom: 30px;
+        }
+    }
+    .profile-content {
+        .uk-card-default {
+            background: $mainDark;
+            h3 {
+                color: $mainLight;
+            }
+        }
+    }
+}
