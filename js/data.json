@@ -1,0 +1,74 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "fa fa-cogs",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "../images/image2.jpg"
+        },
+        {
+            "id":2,
+            "image": "../images/image3.jpg"
+        },
+        {
+            "id":3,
+            "image": "../images/image5.jpg"
+        },
+        {
+            "id":4,
+            "image": "../images/image6.jpg"
+        },
+        {
+            "id":5,
+            "image": "../images/image8.jpg"
+        },
+        {
+            "id":6,
+            "image": "../images/image9.jpg"
+        },
+        {
+            "id":7,
+            "image": "../images/image10.jpg"
+        },
+        {
+            "id":8,
+            "image": "../images/image3.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on Pinterest"
+        }
+    ] 
+}

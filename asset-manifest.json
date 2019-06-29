@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KiiMuu/React_Template.git/static/css/main.1c61d313.chunk.css",
+    "main.js": "/KiiMuu/React_Template.git/static/js/main.2f1ecab7.chunk.js",
+    "main.js.map": "/KiiMuu/React_Template.git/static/js/main.2f1ecab7.chunk.js.map",
+    "runtime~main.js": "/KiiMuu/React_Template.git/static/js/runtime~main.43a53679.js",
+    "runtime~main.js.map": "/KiiMuu/React_Template.git/static/js/runtime~main.43a53679.js.map",
+    "static/js/2.4a997efd.chunk.js": "/KiiMuu/React_Template.git/static/js/2.4a997efd.chunk.js",
+    "static/js/2.4a997efd.chunk.js.map": "/KiiMuu/React_Template.git/static/js/2.4a997efd.chunk.js.map",
+    "index.html": "/KiiMuu/React_Template.git/index.html",
+    "precache-manifest.490616cf6aaff0e83238b7a6932a492d.js": "/KiiMuu/React_Template.git/precache-manifest.490616cf6aaff0e83238b7a6932a492d.js",
+    "service-worker.js": "/KiiMuu/React_Template.git/service-worker.js",
+    "static/css/main.1c61d313.chunk.css.map": "/KiiMuu/React_Template.git/static/css/main.1c61d313.chunk.css.map",
+    "static/media/About.scss": "/KiiMuu/React_Template.git/static/media/about.2241b5b2.jpg",
+    "static/media/logo.svg": "/KiiMuu/React_Template.git/static/media/logo.f391e657.svg",
+    "static/media/slider1.jpg": "/KiiMuu/React_Template.git/static/media/slider1.78e3aa55.jpg",
+    "static/media/slider2.jpeg": "/KiiMuu/React_Template.git/static/media/slider2.c2dda9ed.jpeg",
+    "static/media/slider3.jpg": "/KiiMuu/React_Template.git/static/media/slider3.cea8de4e.jpg"
+  }
+}
